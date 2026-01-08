@@ -1,5 +1,5 @@
 ## Hi there i'm Anas 👋
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 👨🏻‍💻 Full-Stack Web Developer building both frontend & backend solutions<br>⚡ Experienced with JavaScript, PHP, MySQL, React, Node.js and more<br>🌐 Sharing my journey & learnings in web development and new tech<br><br>
 
 
